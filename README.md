@@ -4,7 +4,7 @@ An elegant desktop application that enhances your writing in real-time using Goo
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-brightgreen.svg)
-![Python](https://img.shields.io/badge/python-3.6+-yellow.svg)
+![Python](https://img.shields.io/badge/python-3.11+-yellow.svg)
 
 ## ✨ Features
 
@@ -24,7 +24,7 @@ An elegant desktop application that enhances your writing in real-time using Goo
 ## 🛠️ Installation
 
 ### Option 1: Download the Installer
-1. Download the latest installer from the main branch: [AI-Text-Rephraser-Installer.exe](https://github.com/itamar-shashar/AI-Text-Rephraser-app/AI-Text-Rephraser-Installer.exe)
+1. Download the latest installer from the master branch: [AI-Text-Rephraser-Installer.exe](https://github.com/itamar-shashar/AI-Text-Rephraser-app/blob/master/Output/AI-Text-Rephraser-Installer.exe)
 2. Run the installer and follow the prompts
 3. Launch the app from your Start menu
 
