@@ -2,7 +2,7 @@
 
 An elegant desktop application that enhances your writing in real-time using Google's Gemini AI.
 
-[Watch the video here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch the video here](https://youtu.be/ZnZ8jSkxxY0)
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-brightgreen.svg)
