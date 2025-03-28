@@ -24,7 +24,7 @@ An elegant desktop application that enhances your writing in real-time using Goo
 ## 🛠️ Installation
 
 ### Option 1: Download the Installer
-1. Download the latest installer from the [Releases](https://github.com/itamar-shashar/AI-Text-Rephraser-app/releases) page
+1. Download the latest installer from the main branch: [AI-Text-Rephraser-Installer.exe](https://github.com/itamar-shashar/AI-Text-Rephraser-app/blob/main/Output/AI-Text-Rephraser-Installer.exe)
 2. Run the installer and follow the prompts
 3. Launch the app from your Start menu
 
