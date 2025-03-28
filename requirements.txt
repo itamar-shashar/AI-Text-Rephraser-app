@@ -1,0 +1,7 @@
+keyboard==0.13.5
+pyperclip==1.8.2
+plyer==2.1.0
+pillow==10.2.0
+pystray==0.19.4 
+google-genai>=1.7.0
+cx_Freeze>=7.2.10

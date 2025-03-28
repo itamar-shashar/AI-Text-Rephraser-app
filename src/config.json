@@ -1,0 +1,8 @@
+{
+    "enabled": true,
+    "shortcut": "ctrl+shift+H",
+    "user_system_prompt": "Improve this text by fixing grammer, spelling and making it more professional and clear while keeping the original meaning",
+    "api_key": "AIzaSyBxBaCL5V01nkkakbjEbcdBvy-505uDH2A",
+    "model": "gemini-2.0-flash",
+    "creativity_level": 5
+}

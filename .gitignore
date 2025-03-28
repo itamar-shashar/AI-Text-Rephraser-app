@@ -1,0 +1,26 @@
+# Directories to ignore
+build/
+Output/
+videos/
+
+# Virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Private API keys
+private_gemini_api.txt
+
+# Distribution / packaging
+dist/
+*.egg-info/
+*.egg
+
+# Windows specific
+*.exe
+*.dll
+*.pyd
+
+# Other
+.DS_Store
