@@ -75,7 +75,7 @@ This application requires a Google Gemini API key:
 ## 📋 Requirements
 
 - Windows 10 or newer
-- Python 3.6+ (if building from source)
+- Python 3.11+ (if building from source)
 - Internet connection (for API communication)
 - Google Gemini API key
 
@@ -101,4 +101,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Made with ❤️ by [Itamar Shashar](https://github.com/itamar-shashar) 
+Made by [Itamar Shashar](https://github.com/itamar-shashar) 
